@@ -19,14 +19,14 @@
         "sem": "1st",
         "code": "NSTP101a",
         "description": "Reserve Officers' Training Corps 1",
-        "credit": "n/a"
+        "credit": "2.75"
       },
       {
         "year_level": "1st",
         "sem": "1st",
         "code": "IT111",
         "description": "Introduction to Computing",
-        "credit": "n/a"
+        "credit": "2.75"
       },
       {
         "year_level": "1st",
@@ -40,35 +40,35 @@
         "sem": "1st",
         "code": "PurCom",
         "description": "Purposive Communication",
-        "credit": "n/a"
+        "credit": "2.00"
       },
       {
         "year_level": "1st",
         "sem": "1st",
         "code": "RPH",
         "description": "Readings in Philippine History",
-        "credit": "n/a"
+        "credit": "1.75"
       },
       {
         "year_level": "1st",
         "sem": "1st",
         "code": "TCW",
         "description": "The Contemporary World",
-        "credit": "n/a"
+        "credit": "1.75"
       },
       {
         "year_level": "1st",
         "sem": "1st",
         "code": "MMW",
         "description": "Mathematics in the Modern World",
-        "credit": "n/a"
+        "credit": "2.50"
       },
       {
         "year_level": "1st",
         "sem": "1st",
         "code": "PATH FIT 1",
         "description": "Movement Enhancement",
-        "credit": "n/a"
+        "credit": "1.50"
       },
       {
         "year_level": "1st",
@@ -96,126 +96,126 @@
         "sem": "2nd",
         "code": "ArtApp",
         "description": "Art Appreciation",
-        "credit": "n/a"
+        "credit": "2.25"
       },
       {
         "year_level": "1st",
         "sem": "2nd",
         "code": "UTS",
         "description": "Understanding the Self",
-        "credit": "n/a"
+        "credit": "2.50"
       },
       {
         "year_level": "1st",
         "sem": "2nd",
         "code": "PATH FIT 2",
         "description": "Fitness Activity and Exercises",
-        "credit": "n/a"
+        "credit": "1.50"
       },
       {
         "year_level": "1st",
         "sem": "2nd",
         "code": "STS",
         "description": "Science, Technology and Society",
-        "credit": "n/a"
+        "credit": "1.75"
       },
       {
         "year_level": "2nd",
         "sem": "1st",
         "code": "IT211",
         "description": "Intro to Human Computer Interaction",
-        "credit": "n/a"
+        "credit": "2.00"
       },
       {
         "year_level": "2nd",
         "sem": "1st",
         "code": "IT212",
         "description": "Fundamentals of Database Systems",
-        "credit": "n/a"
+        "credit": "2.25"
       },
       {
         "year_level": "2nd",
         "sem": "1st",
         "code": "IT213",
         "description": "Platform Technologies",
-        "credit": "n/a"
+        "credit": "2.00"
       },
       {
         "year_level": "2nd",
         "sem": "1st",
         "code": "IT214",
         "description": "Object Oriented Programming",
-        "credit": "n/a"
+        "credit": "2.25"
       },
       {
         "year_level": "2nd",
         "sem": "1st",
         "code": "IT215",
         "description": "Accounting Principles",
-        "credit": "n/a"
+        "credit": "2.00"
       },
       {
         "year_level": "2nd",
         "sem": "1st",
         "code": "PATH FIT 3",
         "description": "Physical Activity Towards Health and Fitness 1",
-        "credit": "n/a"
+        "credit": "1.75"
       },
       {
         "year_level": "2nd",
         "sem": "1st",
         "code": "EnviSci",
         "description": "Environmental Science",
-        "credit": "n/a"
+        "credit": "2.00"
       },
       {
         "year_level": "2nd",
         "sem": "2nd",
         "code": "IT221",
         "description": "Information Management",
-        "credit": "3.0"
+        "credit": ""
       },
       {
         "year_level": "2nd",
         "sem": "2nd",
         "code": "IT222",
         "description": "Networking 1",
-        "credit": "3.0"
+        "credit": ""
       },
       {
         "year_level": "2nd",
         "sem": "2nd",
         "code": "IT223",
         "description": "Web Systems and Technologies",
-        "credit": "3.0"
+        "credit": ""
       },
       {
         "year_level": "2nd",
         "sem": "2nd",
         "code": "IT224",
         "description": "Systems Integration and Architecture 1",
-        "credit": "3.0"
+        "credit": ""
       },
       {
         "year_level": "2nd",
         "sem": "2nd",
         "code": "Ethc",
         "description": "Ethics",
-        "credit": "3.0"
+        "credit": ""
       },
       {
         "year_level": "2nd",
         "sem": "2nd",
         "code": "Rizal",
         "description": "Life and Works of Rizal",
-        "credit": "3.0"
+        "credit": ""
       },
       {
         "year_level": "2nd",
         "sem": "2nd",
         "code": "PATH FIT 4",
         "description": "Physical Activity Towards Health and Wellness",
-        "credit": "3.0"
+        "credit": ""
       }
     ]
   }
